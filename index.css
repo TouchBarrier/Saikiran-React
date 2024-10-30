@@ -1,0 +1,7 @@
+#child1, #child2{
+    color: red;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    justify-content: space-between;
+}
